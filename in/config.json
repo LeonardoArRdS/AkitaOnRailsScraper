@@ -1,0 +1,13 @@
+{
+    "caminho_dados" : "in/dados.json",
+    "img_caminho_saida" : "out/resources",
+    "relatorio_arquivo_imagens" : "out/relatorio_imagens.csv",
+    "pagina_html" : {
+        "caminho_saida" : "out/html"
+    },
+    "obsidian" : {
+        "caminho_template" : "in/template.md",
+        "caminho_saida" : "out/obsidian",
+        "sumario_saida" : "out/obsidian/0-Sumário.md"
+    }
+}
